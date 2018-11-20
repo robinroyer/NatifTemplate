@@ -1,4 +1,14 @@
-# Kitten Tricks
+# Natif Template (building)
+
+Natif template automated build of simple app from yml or md files.
+
+
+
+
+
+
+# OLD
+##### Kitten Tricks
 
 A perfect starter kit for your next cross-platform React Native app. **FREE** and open-source! Check out live demo on [App Store](https://itunes.apple.com/us/app/kitten-tricks/id1246143230) or [Google Play](https://play.google.com/store/apps/details?id=com.akveo.kittenTricks).
 
